@@ -1,1 +1,1 @@
-# Practival Data Analytics projects
+# Practical Data Analytics projects
